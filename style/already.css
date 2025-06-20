@@ -43,7 +43,7 @@ h1 {
   font-weight: 500;
   color: whitesmoke;
 }
-.registration {
+.login {
     height: 90%;
     display: flex;
     gap: 50px;
