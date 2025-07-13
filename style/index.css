@@ -46,7 +46,8 @@ h1 {
 .registration {
     height: 90%;
     display: flex;
-    gap: 50px;
+    margin-bottom: 50px;
+    gap: 0;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -136,6 +137,7 @@ button:hover {
 
     .registration {
         height: 85%;
+        gap: 50px;
     }
 
     form {margin-top: -50px;
@@ -169,6 +171,7 @@ button:hover {
     
     .registration {
         height: 85%;
+        gap: 50px;
     }
 
 }
@@ -194,6 +197,7 @@ button:hover {
 
     .registration {
         height: 85%;
+        gap: 50px;
     }
 }
 
@@ -220,5 +224,6 @@ button:hover {
 
     .registration {
         height: 85%;
+        gap: 50px;
     }
 }
